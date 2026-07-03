@@ -2,6 +2,14 @@
 
 A modern, beautifully crafted landing page built with **React 19**, **Tailwind CSS 4**, and **TypeScript**. This project showcases the **Organic Craft Modern** design philosophy—combining warm, earthy aesthetics with smooth animations and intentional user interactions.
 
+## 🌐 Live Demo
+
+**Visit the live landing page:** [Creative Landing Page](https://creativelp-dbm4obg3.manus.space)
+
+### Screenshot
+
+![Creative Landing Page Demo](./demo-screenshot.png)
+
 ## 🎨 Design Philosophy: Organic Craft Modern
 
 This landing page celebrates human creativity through a thoughtfully designed interface that feels warm, inviting, and effortless to use.
